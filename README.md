@@ -17,13 +17,7 @@ A robust, command-line interface (CLI) tool designed to manage personal contacts
 
     Error Handling: Gracefully handles missing database files and invalid user inputs.
 
-🛠️ Installation & Usage
 
-    Clone the repository
-git clone https://github.com/yourusername/contact-manager.git
-cd contact-manager
-
-python main.py
 
 Follow the on-screen menu:
 Plaintext
@@ -35,12 +29,7 @@ Plaintext
     4. Search
     5. Exit
 
-📂 Project Structure
-Plaintext
-
-├── main.py            # The source code
-├── contacts.json      # The database (auto-created on first run)
-└── README.md          # Project documentation
+         
 
 🧠 Code Logic
 
